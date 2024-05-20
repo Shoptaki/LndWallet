@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wallet</string>
+    <string name="profile">profile</string>
+    <string name="friends_list">friends_list</string>
+    <string name="lightning">lightning</string>
+    <string name="personal">Personal</string>
+    <string name="home">Home</string>
+</resources>
